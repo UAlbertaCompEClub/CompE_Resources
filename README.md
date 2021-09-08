@@ -6,7 +6,7 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 
 - [General](#general)
 - [School](#school)
-- [Internship / Co-op](#internship---co-op)
+- [Internships](#internships)
 - [Interviews](#interviews)
 - [Resumes](#resumes)
 - [Cool Reads](#cool-reads)
@@ -35,7 +35,7 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 - [CMPUT 366](http://jrwright.info/aicourse/)
   - Reinforcement Learning
 
-## Internship / Co-op
+## Internships
 
 | Link                                                              | Description                                                                                                                                                                                                                                                                                                                             |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
