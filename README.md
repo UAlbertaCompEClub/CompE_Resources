@@ -69,6 +69,7 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 - [Resume Maker](https://resumake.io/generator/templates)
 - [Sample Resumes c/o uWaterloo students](https://drive.google.com/drive/folders/1GD16Fp_MalB1MP_p-Jn34cVJ-ZyjCf8X?usp=sharing)
 - [SWE Resume Tips c/o uWaterloo students](https://docs.google.com/document/d/1z1ykZitNA3mRGtZhqm0e_KefysPDeY3jg0_RzhUkmXg/edit?usp=sharing)
+- [ATS Parser](https://resumeworded.com/resume-scanner)
 
 ## Cool Reads
 
@@ -87,8 +88,11 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 
 ## Programming
 
+- [Git Tutorial](https://www.youtube.com/watch?v=HkdAHXoRtos&ab_channel=Fireship)
+  - Highly recommended for 2nd years to learn git / github as soon as possibl
 - [React Guide](https://saurabhshah23.medium.com/react-js-architecture-features-folder-structure-design-pattern-70b7b9103f22)
   - Note: article written in 2020, may be outdated at the time of reading
+- [Intro to React Workshop](https://github.com/lesliexin/intro-to-react-workshop)
 
 ## Student Perks
 
