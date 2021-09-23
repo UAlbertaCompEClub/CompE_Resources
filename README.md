@@ -70,6 +70,7 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 - [Sample Resumes c/o uWaterloo students](https://drive.google.com/drive/folders/1GD16Fp_MalB1MP_p-Jn34cVJ-ZyjCf8X?usp=sharing)
 - [SWE Resume Tips c/o uWaterloo students](https://docs.google.com/document/d/1z1ykZitNA3mRGtZhqm0e_KefysPDeY3jg0_RzhUkmXg/edit?usp=sharing)
 - [ATS Parser](https://resumeworded.com/resume-scanner)
+- [Resume Builder](https://luckyresumemaker.com/)
 
 ## Cool Reads
 
