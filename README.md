@@ -63,7 +63,7 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 - [Algorithms for Interviews: Monotonic Stack](https://medium.com/techtofreedom/algorithms-for-interview-2-monotonic-stack-462251689da8)
   - Look at this authors other posts for more resources [here](https://yangzhou1993.medium.com)
 - [Preparing for Programming interview with Python](https://medium.com/@ratulsaha/preparing-for-programming-interview-as-a-phd-student-with-python-5f8af8b40d5f)
-
+- [Practice Problems For Hardware Engineers](https://arxiv.org/abs/2110.06526)
 ## Resumes
 
 - [Resume Maker](https://resumake.io/generator/templates)
