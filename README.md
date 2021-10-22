@@ -66,6 +66,8 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 - [Practice Problems For Hardware Engineers](https://arxiv.org/abs/2110.06526)
 - [Technical Interview Rubric](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/htmlview?pru=AAABfLy7gw4*6-lS7RImqDKNRAm3etsgkA)
 - [Data Structures and Algorithms - JS Implementations](https://github.com/trekhleb/javascript-algorithms)
+- [Practice Interviews](https://www.pramp.com/#/)
+
 ## Resumes
 
 - [Resume Maker](https://resumake.io/generator/templates)
