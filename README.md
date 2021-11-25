@@ -98,6 +98,7 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 - [React Guide](https://saurabhshah23.medium.com/react-js-architecture-features-folder-structure-design-pattern-70b7b9103f22)
   - Note: article written in 2020, may be outdated at the time of reading
 - [Intro to React Workshop](https://github.com/lesliexin/intro-to-react-workshop)
+- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ## Student Perks
 
