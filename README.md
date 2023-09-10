@@ -16,7 +16,6 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 
 ## General
 
-- [compe.plus](https://www.compe.plus/)
 - [General CS/SWE Resources](https://docs.google.com/document/d/1VL3GqkwWWjXuK6MHGxGq81sOf0GJRr8Gxn5dlcHBXVk/edit)
 - [CS vs SWE / CompE c/o uWaterloo students](https://docs.google.com/document/d/1y1FvwCNqaUGTm74dMMqegnWqJMDpVZZZcNVLsZS4hoM/edit?usp=sharing)
 - [uWaterloo Resources](https://github.com/dhvanipa/UWaterloo-Links-SE)
@@ -33,8 +32,6 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
   - Web Applications
 - [CMPUT 466](https://marthawhite.github.io/mlcourse/)
   - Machine Learning
-- [CMPUT 366](http://jrwright.info/aicourse/)
-  - Reinforcement Learning
 
 ## Internships
 
