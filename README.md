@@ -92,7 +92,7 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 ## Programming
 
 - [Git Tutorial](https://www.youtube.com/watch?v=HkdAHXoRtos&ab_channel=Fireship)
-  - Highly recommended for 2nd years to learn git / github as soon as possibl
+  - Highly recommended for 2nd years to learn git / github as soon as possible
 - [React Guide](https://saurabhshah23.medium.com/react-js-architecture-features-folder-structure-design-pattern-70b7b9103f22)
   - Note: article written in 2020, may be outdated at the time of reading
 - [Intro to React Workshop](https://github.com/lesliexin/intro-to-react-workshop)
