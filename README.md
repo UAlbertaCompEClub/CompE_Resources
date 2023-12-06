@@ -16,6 +16,19 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 
 ## General
 
+### Engineering Career Connections Resource Vault:
+Starting your career in tech can be daunting but rewarding. The resources in the [Resource Vault](https://sites.google.com/ualberta.ca/resource-vault-menu/home) are specifically designed to help you discover, prepare for, and successfully launch your career. A few of the things you will find in the Resource Vault include:
+- Tips and strategies to help you [plan your career and conduct an effective job search](https://sites.google.com/ualberta.ca/resource-vault-menu/engineering-your-career)
+- [Discipline-specific information](https://sites.google.com/ualberta.ca/resource-vault-menu/engineering-your-career/discipline-specific-career-exploration) for career exploration — including sample job titles and companies
+- A list of [over 150 resources/services](https://sites.google.com/ualberta.ca/resource-vault-menu/engineering-your-career/access-helpful-resources) to help you in your career planning, networking, and job search, or with your entrepreneurial journey
+- Resources to help you [improve your resume](https://sites.google.com/ualberta.ca/resource-vault-menu/writing-effective-resumes)
+- Advice and a template for [writing an effective cover letter](https://sites.google.com/ualberta.ca/resource-vault-menu/cover-letters-career-communications)
+- Best practices and sample questions to help you [prepare for upcoming interviews](https://sites.google.com/ualberta.ca/resource-vault-menu/acing-the-interview)
+- Suggestions to help you [build a network and develop your career brand](https://sites.google.com/ualberta.ca/resource-vault-menu/career-branding-networking)
+- [Computer Engineering Specific Resources](https://sites.google.com/ualberta.ca/resource-vault-menu/career-exploration/computer-engineering)
+
+### Other Resources:
+- [CompE Club Welcome to CompE Slides](https://docs.google.com/presentation/d/1BviTCxPl9PiXaQFoL1GyROoypFKQr5ObLXVWMDIg5ZE/edit)
 - [General CS/SWE Resources](https://docs.google.com/document/d/1VL3GqkwWWjXuK6MHGxGq81sOf0GJRr8Gxn5dlcHBXVk/edit)
 - [CS vs SWE / CompE c/o uWaterloo students](https://docs.google.com/document/d/1y1FvwCNqaUGTm74dMMqegnWqJMDpVZZZcNVLsZS4hoM/edit?usp=sharing)
 - [uWaterloo Resources](https://github.com/dhvanipa/UWaterloo-Links-SE)
