@@ -12,7 +12,11 @@ Computer Engineering related resources for school, co-op, internships, etc. tail
 - [Cool Reads](#cool-reads)
 - [Hackathons](#hackathons)
 - [Programming](#programming)
+- [Portfolio](#portfolio)
+- [Career Branding & Networking](#career)
 - [Student Perks](#student-perks)
+- [Entrepreneurship](#entrepreneurship)
+- [Community](#community)
 
 ## General
 
