@@ -96,10 +96,14 @@ Starting your career in tech can be daunting but rewarding. The resources in the
 - [Developer Roadmap](https://roadmap.sh)
 - [Network Programming](https://beej.us/guide/bgnet/html/)
 - [Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [List of free programming books](https://github.com/EbookFoundation/free-programming-books)
 
 ## Hackathons
 
 - [HackEd](https://hacked.compeclub.com/)
+- [HackEd Beta](https://hackedbeta.compeclub.com)
+- [NatHacks](https://neuralberta.tech/nathacks)
+- DevEdmonton hackathons e.g. DevelopEd
 - [Hack the North](https://hackthenorth.com/#about)
 
 ## Programming
@@ -110,6 +114,33 @@ Starting your career in tech can be daunting but rewarding. The resources in the
   - Note: article written in 2020, may be outdated at the time of reading
 - [Intro to React Workshop](https://github.com/lesliexin/intro-to-react-workshop)
 - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+## Portfolio
+
+resources coming soon!
+
+## Career Branding & Networking
+
+resources coming soon!
+
+## Entrepreneurship
+
+- [ICE Engineering Incubator](https://www.ualberta.ca/engineering/innovation-creativity-entrepreneurship/index.html)
+- [Entrepreneurial Co-op](https://www.ualberta.ca/engineering/innovation-creativity-entrepreneurship/entrepreneurial-co-op.html)
+- [Edmonton Unlimited](https://edmontonunlimited.com)
+- [Platform Calgary](https://www.platformcalgary.com)
+- [Alberta Catalyzer](https://albertacatalyzer.com)
+- [CDL-Rockies](https://creativedestructionlab.com/streams/prime/rockies)
+- [Alberta Accelerator by 500](https://500.co/accelerators/alberta-accelerator)
+- [imYEG](https://www.imyeg.com)
+- [Technology Alberta](https://technologyalberta.com) - Community, Newsletter, Funding for first job in tech, etc.
+- [Dev Edmonton Society](https://devedmonton.com) (See their Events page for more possible Community - https://devedmonton.com/#community-events)
+- [Amii](https://www.amii.ca)
+
+## Community
+
+ resources/links coming soon!
+
 
 ## Student Perks
 
