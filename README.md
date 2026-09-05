@@ -89,6 +89,7 @@ Starting your career in tech can be daunting but rewarding. The resources in the
 - [Sample Resumes c/o uWaterloo students](https://drive.google.com/drive/folders/1GD16Fp_MalB1MP_p-Jn34cVJ-ZyjCf8X?usp=sharing)
 - [SWE Resume Tips c/o uWaterloo students](https://docs.google.com/document/d/1z1ykZitNA3mRGtZhqm0e_KefysPDeY3jg0_RzhUkmXg/edit?usp=sharing)
 - [ATS Parser](https://resumeworded.com/resume-scanner)
+- [ResumeAI](https://withresumeai.com/) — free ATS checker + AI resume builder; State of ATS 2026 (738/704, Workday 37.9%)
 - [Resume Builder](https://luckyresumemaker.com/)
 
 ## Cool Reads
