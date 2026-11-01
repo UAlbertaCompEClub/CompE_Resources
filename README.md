@@ -90,6 +90,7 @@ Starting your career in tech can be daunting but rewarding. The resources in the
 - [SWE Resume Tips c/o uWaterloo students](https://docs.google.com/document/d/1z1ykZitNA3mRGtZhqm0e_KefysPDeY3jg0_RzhUkmXg/edit?usp=sharing)
 - [ATS Parser](https://resumeworded.com/resume-scanner)
 - [Resume Builder](https://luckyresumemaker.com/)
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
 
 ## Cool Reads
 
